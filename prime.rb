@@ -1,6 +1,6 @@
 # Add  code here!
-def prime?(prime)
- prime.prime?()
+def prime?(integer)
+ integer.prime?()
   return true
 
 end
