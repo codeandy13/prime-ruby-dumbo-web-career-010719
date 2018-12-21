@@ -1,6 +1,7 @@
 # Add  code here!
 def prime?(integer)
- integer.prime?()
+
+  if integer % 0
   return true
 
 end
