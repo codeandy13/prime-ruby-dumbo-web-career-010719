@@ -1,5 +1,5 @@
 # Add  code here!
-def prime?(prime)
+def prime?(integer)
  prime
   return true
 
